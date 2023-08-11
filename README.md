@@ -1,4 +1,4 @@
-> Data science & Machine Learning & Algorithm
+> Data science & AI & Algorithm
 
 <!---
 JAEHYEONG8121/JAEHYEONG8121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
