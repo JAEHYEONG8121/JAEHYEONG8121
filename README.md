@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome%20JaeHyeongZone&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome%20JaeHyeongZone&fontSize=50)
 > Data science & AI & Algorithm
 
 <a href="https://www.notion.so/DashBoard-0636684aec444effb23c564584394fe6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
