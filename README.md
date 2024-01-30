@@ -10,7 +10,7 @@
 
 
 ![Jaehyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEHYEONG8121&show_icons=true&theme=radical)
-github-readme-stats.vercel.app/api/top-langs/?username=JAEHYEONG8121&langs_count=8
+
 <!---
 JAEHYEONG8121/JAEHYEONG8121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
