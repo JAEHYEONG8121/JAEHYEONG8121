@@ -6,7 +6,8 @@
 I'm a student at Kookmin University's Department of Electronic Engineering, currently studying artificial intelligence. My aspiration is to become a researcher who leverages AI technology to benefit the world. To achieve this, I am diligently studying the fundamentals of AI, including linear algebra and probability theory, as well as delving into various AI fields such as machine learning, deep learning, transformers, large language models(LLM), computer vision(CV), diffusion models, and reinforcement learning(RL).
 
 
-
+<br>
+<br>
 ## Social Media:
 
 
@@ -14,8 +15,8 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 <a href="https://www.instagram.com/_jaehyeong_ee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 
 
-
-
+<br>
+<br>
 ## Languages and Tools:
 
 
