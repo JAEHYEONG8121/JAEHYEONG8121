@@ -7,7 +7,6 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 
 
 <br>
-<br>
 
 ## Social Media:
 
@@ -16,7 +15,6 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 <a href="https://www.instagram.com/_jaehyeong_ee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 
 
-<br>
 <br>
 
 ## Languages and Tools:
