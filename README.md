@@ -9,6 +9,8 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 
 ## Social Media:
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jaehyeong8121@gmail.com)
 
 <a href="https://www.notion.so/DashBoard-0636684aec444effb23c564584394fe6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/_jaehyeong_ee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
