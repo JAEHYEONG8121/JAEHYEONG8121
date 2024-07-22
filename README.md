@@ -22,7 +22,7 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 - [2023.08.10 ~ 2023.08.11] : 국민대학교 알쓸쳇잡(알아두면 쓸데 잇는 쳇 GPT잡학사전) 교육 특강 수료
 - [2023.08.25 ~ 2023.08.26] : HCLS Summit Korea 2023 - NVIDIA MONAI Bootcamp 참여
 - [2023.11.16 ~ 2023.11.17] : TAF(The Ai Show) 2023 컨퍼런스 참여
-- [2023.12.8] : 전자공학부 자기설계 진로 프로그램 수상
+- [2023.12.08] : 전자공학부 자기설계 진로 프로그램 수상
 - [2024.01.09 ~ 2024.01.15] : 동국대학교 chatGPT 활용 prompt engineering 특강 수료
 - [2024.06.19 ~ 2024.06.22] : 한국통신학회 하계종합학술발표회 학술논문발표
 - [2024.07.11] : NVIDIA x KakaoCloud - AI개발자를 위한 공동 기술 웨비나 참여
