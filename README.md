@@ -17,10 +17,8 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 
 | Python |   C   |   C++   |
 |:------:|-------|---------|
-|<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python Icon" width="50" height="50"/>
-
-
-|----|----|
+|<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++ Icon" width="50" height="50"/>
+|
 
 
 
