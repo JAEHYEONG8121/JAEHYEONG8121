@@ -17,10 +17,10 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 
 | Python |   C   |   C++   |
 |--------|-------|---------|
-|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="50"/>|----|----|
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="50"/>
+
 
 
 
