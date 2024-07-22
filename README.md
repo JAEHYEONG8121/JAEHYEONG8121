@@ -5,7 +5,7 @@
 
 I'm a student at Kookmin University's Department of Electronic Engineering, currently studying artificial intelligence. My aspiration is to become a researcher who leverages AI technology to benefit the world. To achieve this, I am diligently studying the fundamentals of AI, including linear algebra and probability theory, as well as delving into various AI fields such as machine learning, deep learning, transformers, large language models(LLM), computer vision(CV), diffusion models, and reinforcement learning(RL).
 
- 
+ <br>
 
 ## Social Media:
 
@@ -13,7 +13,7 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 <a href="https://www.notion.so/DashBoard-0636684aec444effb23c564584394fe6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/_jaehyeong_ee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 
-
+<br>
 
 ## Experiences:
 
@@ -27,7 +27,7 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 - [2024.06.19 ~ 2024.06.22] : 한국통신학회 하계종합학술발표회 학술논문발표
 - [2024.07.11] : NVIDIA x KakaoCloud - AI개발자를 위한 공동 기술 웨비나 참여
 
-
+<br>
 
 ## Languages and Tools:
 
