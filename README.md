@@ -19,7 +19,9 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 |--------|-------|---------|
 |
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="50"/>
+
 
 
 
