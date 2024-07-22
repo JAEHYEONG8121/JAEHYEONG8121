@@ -70,7 +70,7 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 
 
 ![Jaehyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEHYEONG8121&show_icons=true&theme=radical)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=harry8121)](https://solved.ac/harry8121)
+![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=harry8121)](https://solved.ac/harry8121)
 
 <!---
 JAEHYEONG8121/JAEHYEONG8121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
