@@ -25,7 +25,7 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 
 | Pytorch |  Numpy  | Pandas | Sklearn | openCV |
 |:-------:|---------|--------|---------|--------|
-|<img src="https://pytorch.org/assets/images/pytorch-logo-icon.svg" alt="PyTorch Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="pandas Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" alt="scikit-learn Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" alt="OpenCV Icon" width="50" height="50"/>|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="pandas Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" alt="scikit-learn Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" alt="OpenCV Icon" width="50" height="50"/>|
 
 
 
