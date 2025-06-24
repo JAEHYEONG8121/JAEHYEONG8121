@@ -23,7 +23,7 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 
 ## Experiences:
 
-- [2025.02.27 ~ present] : 고려대학교 TAIL 인턴
+- [2025.02.27 ~ 2025.06.30] : 고려대학교 TAIL 인턴
 - [2025.01.02 ~ 2025.01.23] : 국민대학교 AI Tutor와 함께하는 수학학력증진 프로그램 수료
 - [2024.11.20 ~ 2024.11.22] : 한국통신학회 추계종합학술발표회 AI 창작물 워터마크 주제 학술논문발표
 - [2024.07.11] : NVIDIA x KakaoCloud - AI개발자를 위한 공동 기술 웨비나 참여
