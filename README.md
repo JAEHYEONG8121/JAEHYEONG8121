@@ -5,7 +5,7 @@
 
 
 I'm a student at Kookmin University's Department of Electronic Engineering, currently studying artificial intelligence.<br> My aspiration is to become a researcher who leverages AI technology to benefit the world.<br>To achieve this, I am diligently studying the fundamentals of AI, including linear algebra and probability theory. 
-<br>Recently, I have been interested in Responsible AI and studying topics such as AI-related regulations, data fairness, and explainable AI (XAI).
+<br>Recently, I have been interested in HCI, Responsible AI and UI/UX.
 <br>You can check out my research and achievements on Notion, and everything I work on with code can be found here on GitHub. 
 <br>Questions are always welcome!
 
