@@ -23,6 +23,7 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 
 ## Experiences:
 
+- [2025.09 ~ present] : 서울대학교 인간공학심리연구실 RA
 - [2025.07.18] : 2025 국민대학교 사이버공격 방어대회(KMU CTF) 최종 4위
 - [2025.02.27 ~ 2025.06.30] : 고려대학교 TAIL 인턴
 - [2025.01.02 ~ 2025.01.23] : 국민대학교 AI Tutor와 함께하는 수학학력증진 프로그램 수료
