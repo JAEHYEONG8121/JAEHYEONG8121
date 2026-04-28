@@ -23,6 +23,7 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 
 ## Experiences:
 
+- [2026.04.01] : CogSci 2026 Full Paper Accepted
 - [2025.09 ~ present] : 서울대학교 인간공학심리연구실 RA
 - [2025.07.18] : 2025 국민대학교 사이버공격 방어대회(KMU CTF) 최종 4위
 - [2025.02.27 ~ 2025.06.30] : 고려대학교 TAIL 인턴
