@@ -19,27 +19,6 @@ I'm a student at Kookmin University's Department of Electronic Engineering, curr
 <a href="https://ten-thumb-60c.notion.site/Hi-I-m-JaeHyeong-Lee-1a00a11eafa480178ae6c123acc85217" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/_jaehyeong_ee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 
-<br>
-
-## Experiences:
-
-- [2026.04.01] : CogSci 2026 Full Paper Accepted
-- [2025.09 ~ present] : 서울대학교 인간공학심리연구실 RA
-- [2025.07.18] : 2025 국민대학교 사이버공격 방어대회(KMU CTF) 최종 4위
-- [2025.02.27 ~ 2025.06.30] : 고려대학교 TAIL 인턴
-- [2025.01.02 ~ 2025.01.23] : 국민대학교 AI Tutor와 함께하는 수학학력증진 프로그램 수료
-- [2024.11.20 ~ 2024.11.22] : 한국통신학회 추계종합학술발표회 AI 창작물 워터마크 주제 학술논문발표
-- [2024.07.11] : NVIDIA x KakaoCloud - AI개발자를 위한 공동 기술 웨비나 참여
-- [2024.06.19 ~ 2024.06.22] : 한국통신학회 하계종합학술발표회 AI Deep Voice 주제 학술논문발표
-- [2024.01.09 ~ 2024.01.15] : 동국대학교 chatGPT 활용 prompt engineering 특강 수료
-- [2023.12.08] : 전자공학부 자기설계 진로 프로그램 수상
-- [2023.11.16 ~ 2023.11.17] : TAF(The Ai Show) 2023 컨퍼런스 참여
-- [2023.08.25 ~ 2023.08.26] : HCLS Summit Korea 2023 - NVIDIA MONAI Bootcamp 참여
-- [2023.08.10 ~ 2023.08.11] : 국민대학교 알쓸챗잡(알아두면 쓸데 잇는 챗 GPT잡학사전) 교육 특강 수료
-- [2022.12.15 ~ 2023.06.14] : 국민대학교 전자공학부 인공지능연구실 학부생인턴
-- [2022.08.09 ~ 2022.08.18] : 국민대학교 파이썬 & 빅데이터 활용 교육 프로그램 수료
-
-
 
 <br>
 
