@@ -51,9 +51,6 @@ Questions are always welcome!
 |<img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux Icon" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" alt="Ubuntu Icon" width="50" height="50"/>|
 
 
-![Jaehyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEHYEONG8121&show_icons=true&theme=radical)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=harry8121)](https://solved.ac/harry8121)
-
 <!---
 JAEHYEONG8121/JAEHYEONG8121 is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
